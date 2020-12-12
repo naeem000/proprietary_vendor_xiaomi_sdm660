@@ -665,4 +665,5 @@ PRODUCT_PACKAGES += \
     IWlanService \
     TimeService \
     PowerOffAlarm \
+    manifest_android.hardware.drm@1.2-service.widevine.xml \
     vendor.qti.gnss@3.0-service.xml
