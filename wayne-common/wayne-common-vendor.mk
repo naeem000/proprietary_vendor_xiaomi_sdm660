@@ -17,7 +17,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/wayne-common/proprietary/vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
     vendor/xiaomi/wayne-common/proprietary/vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/xiaomi/wayne-common/proprietary/vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_workspaceFile.qwsp \
-    vendor/xiaomi/wayne-common/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
     vendor/xiaomi/wayne-common/proprietary/vendor/etc/camera/wayne_imx376_ofilm_cn_back_ii_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/wayne_imx376_ofilm_cn_back_ii_chromatix.xml \
     vendor/xiaomi/wayne-common/proprietary/vendor/etc/camera/wayne_imx376_ofilm_cn_front_ii_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/wayne_imx376_ofilm_cn_front_ii_chromatix.xml \
     vendor/xiaomi/wayne-common/proprietary/vendor/etc/camera/wayne_imx376_sunny_cn_back_i_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/wayne_imx376_sunny_cn_back_i_chromatix.xml \
@@ -481,7 +480,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/wayne-common/proprietary/vendor/lib/libmmcamera_wayne_imx486_sunny_iii.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_wayne_imx486_sunny_iii.so \
     vendor/xiaomi/wayne-common/proprietary/vendor/lib/libmmcamera_wayne_imx486_sunny_iii_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_wayne_imx486_sunny_iii_eeprom.so \
     vendor/xiaomi/wayne-common/proprietary/vendor/lib/libmmjpeg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmjpeg.so \
-    vendor/xiaomi/wayne-common/proprietary/vendor/lib/libmmlib2d_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmlib2d_interface.so \
     vendor/xiaomi/wayne-common/proprietary/vendor/lib/libmmqjpeg_codec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpeg_codec.so \
     vendor/xiaomi/wayne-common/proprietary/vendor/lib/libmmqjpegdma.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpegdma.so \
     vendor/xiaomi/wayne-common/proprietary/vendor/lib/libqomx_jpegdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_jpegdec.so \
