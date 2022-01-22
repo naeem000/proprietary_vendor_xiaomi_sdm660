@@ -1,0 +1,17 @@
+dex_import {
+	name: "QPerformance",
+	owner: "xiaomi",
+	jars: ["QPerformance.jar"],
+}
+
+dex_import {
+	name: "QXPerformance",
+	owner: "xiaomi",
+	jars: ["QXPerformance.jar"],
+}
+
+dex_import {
+	name: "UxPerformance",
+	owner: "xiaomi",
+	jars: ["UxPerformance.jar"],
+}
